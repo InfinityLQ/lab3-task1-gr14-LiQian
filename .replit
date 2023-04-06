@@ -1,2 +1,3 @@
 language = "c"
-run = "gcc -o hello /home/runner/project2/src/hello.c"
+run = "gcc -o Project /home/runner/lab3-task1-gr14-LiQian/src/main.c"
+
